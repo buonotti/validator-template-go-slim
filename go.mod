@@ -1,3 +1,3 @@
-module github.com/buonotti/validator-go-template
+module github.com/buonotti/validator-template-go-slim
 
 go 1.23.0
